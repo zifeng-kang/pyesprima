@@ -1,1 +1,1 @@
-from pyesprima import Syntax, tokenize, parse
+from .pyesprima import *#Syntax, tokenize, parse
